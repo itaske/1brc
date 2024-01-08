@@ -167,9 +167,12 @@ A: It's the abbreviation of the project name: **One** **B**illion **R**ow **C**h
 
 ## License
 
-This code base is available under the Apache License, version 2.
+This code base is available under the Apache License, version two (2).
 
 ## Code of Conduct
 
 Be excellent to each other!
 More than winning, the purpose of this challenge is to have fun and learn something new.
+
+
+
